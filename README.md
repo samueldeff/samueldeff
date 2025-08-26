@@ -15,7 +15,7 @@ Em construção...,
 Sempre aberto a aprender coisas novas,
 Focado em me tornar desenvolvedor,
 
-Como me encontrar:,
-www.linkedin.com/in/samueldeff
+Como me encontrar
 
+www.linkedin.com/in/samueldeff
 saamu3llx@gmail.com

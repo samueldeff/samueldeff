@@ -4,16 +4,16 @@ Estou começando meus estudos em programação e explorando esse universo incrí
 Atualmente, estou aprendendo python.
 Meu objetivo é evoluir cada dia mais e compartilhar minha jornada aqui no GitHub.
 
-O que estou estudando agora:,
-Fundamentos de programação,
-Lógica e algoritmos,
+O que estou estudando agora:
+Fundamentos de programação
+Lógica e algoritmos
 PYTHON
-HTML/CSS/JS,
+HTML/CSS/JS
 
-Um pouco sobre mim:,
-Em construção...,
+Um pouco sobre mim:
+Em construção..
 Sempre aberto a aprender coisas novas,
-Focado em me tornar desenvolvedor,
+Focado em me tornar desenvolvedor
 
 Como me encontrar
 

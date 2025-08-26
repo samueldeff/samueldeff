@@ -17,4 +17,5 @@ Focado em me tornar desenvolvedor,
 
 Como me encontrar:,
 www.linkedin.com/in/samueldeff
+
 saamu3llx@gmail.com
